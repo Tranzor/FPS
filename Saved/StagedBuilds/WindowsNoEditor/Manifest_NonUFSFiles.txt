@@ -1,0 +1,16 @@
+GenericShooter\Binaries\Win64\GenericShooter.exe	2016-02-08T07:01:32.395Z
+GenericShooter.exe	2016-02-08T07:06:10.120Z
+Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.dll	2015-12-09T06:37:54.378Z
+Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CommonPROFILE_x64.dll	2015-12-09T06:37:54.328Z
+Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3CookingPROFILE_x64.dll	2015-12-09T06:37:54.356Z
+Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\nvToolsExt64_1.dll	2015-12-09T06:37:54.203Z
+Engine\Binaries\ThirdParty\PhysX\APEX-1.3\Win64\VS2015\APEX_ClothingPROFILE_x64.dll	2015-12-09T06:37:53.724Z
+Engine\Binaries\ThirdParty\PhysX\APEX-1.3\Win64\VS2015\APEX_DestructiblePROFILE_x64.dll	2015-12-09T06:37:53.747Z
+Engine\Binaries\ThirdParty\PhysX\APEX-1.3\Win64\VS2015\APEX_LegacyPROFILE_x64.dll	2015-12-09T06:37:53.770Z
+Engine\Binaries\ThirdParty\PhysX\APEX-1.3\Win64\VS2015\ApexFrameworkPROFILE_x64.dll	2015-12-09T06:37:53.789Z
+Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll	2015-12-09T06:37:53.366Z
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll	2015-12-09T06:37:59.870Z
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll	2015-12-09T06:37:59.877Z
+Engine\Binaries\ThirdParty\Leap\Win64\Leap.dll	2015-12-09T06:37:53.295Z
+Engine\Binaries\ThirdParty\OpenVR\OpenVRv000\Win64\openvr_api.dll	2015-12-09T06:37:53.516Z
+Engine\Binaries\ThirdParty\Steamworks\Steamv132\Win64\steam_api64.dll	2015-12-09T06:37:54.594Z
